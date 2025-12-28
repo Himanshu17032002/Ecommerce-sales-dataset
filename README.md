@@ -48,19 +48,6 @@ products → product_id, product category, product_name_length, product_descript
 
 seller → seller_id, seller_zip_code_prefix, seller_city, seller_state
 
-⚙️ Project Workflow
-
-Imported CSV data into MySQL
-
-Cleaned and validated data
-
-Executed SQL queries (Basic → Advanced)
-
-Connected MySQL with Python
-
-Performed analysis & visualization
-
-Generated business insights
 
 ⚙️ Project Workflow
 
