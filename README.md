@@ -54,37 +54,27 @@ seller → seller_id, seller_zip_code_prefix, seller_city, seller_state
 Data Import
 
    Imported raw CSV data into MySQL tables.
-
    Created schema and applied constraints.
 
 Data Cleaning (SQL & Python)
 
    Removed null values and duplicates.
-
    Standardized date formats.
-
    Validated numerical fields.
 
 SQL Analysis
 
    Revenue by month and year
-
    Top-selling products
-
    Category-wise sales
-
    Customer purchase frequency
-
    High-value customers
 
 Python Analysis
 
    Connected MySQL database using Python
-
    Data extraction using SQL queries
-
    Performed exploratory data analysis (EDA)
-
    Visualized insights using charts
 
    
